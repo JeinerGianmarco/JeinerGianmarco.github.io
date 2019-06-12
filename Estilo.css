@@ -5,14 +5,14 @@ body {
 }
 
 a {
-    color: #18d26e;
+    color: tomato;
     transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
-    color: #18d36e;
+    color: tomato;
     outline: none;
     text-decoration: none;
 }
@@ -37,7 +37,7 @@ h6 {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #18d26e;
+    background: tomato;
     color: #fff;
     width: 44px;
     height: 44px;
@@ -73,7 +73,7 @@ h6 {
     top: calc(50% - 30px);
     left: calc(50% - 30px);
     border: 6px solid #f2f2f2;
-    border-top: 6px solid #18d26e;
+    border-top: 6px solid tomato;
     border-radius: 50%;
     width: 60px;
     height: 60px;
@@ -117,7 +117,7 @@ h6 {
 #header #logo h1 a:hover {
     color: #fff;
     padding-left: 10px;
-    border-left: 4px solid #18d26e;
+    border-left: 4px solid tomato;
 }
 
 #header #logo img {
@@ -250,12 +250,12 @@ h6 {
     transition: 0.5s;
     margin: 10px;
     color: #fff;
-    background: #18d26e;
+    background: tomato;
 }
 
 #intro .btn-get-started:hover {
     background: #fff;
-    color: #18d26e;
+    color: tomato;
 }
 
 .nav-menu,
@@ -315,7 +315,7 @@ h6 {
 
 .nav-menu li:hover>a,
 .nav-menu>.menu-active>a {
-    color: #18d26e;
+    color: tomato;
 }
 
 .nav-menu>li {
@@ -343,7 +343,7 @@ h6 {
 }
 
 .nav-menu ul li:hover>a {
-    color: #18d26e;
+    color: tomato;
 }
 
 .nav-menu ul ul {
@@ -408,7 +408,7 @@ h6 {
 }
 
 #mobile-nav ul li a:hover {
-    color: #18d26e;
+    color: tomato;
 }
 
 #mobile-nav ul li li {
@@ -416,7 +416,7 @@ h6 {
 }
 
 #mobile-nav ul li.menu-active a {
-    color: #18d26e;
+    color: tomato;
 }
 
 #mobile-nav ul .menu-has-children i {
@@ -429,7 +429,7 @@ h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-    color: #18d26e;
+    color: tomato;
 }
 
 #mobile-nav ul .menu-has-children li a {
@@ -437,7 +437,7 @@ h6 {
 }
 
 #mobile-nav ul .menu-item-active {
-    color: #18d26e;
+    color: tomato;
 }
 
 #mobile-body-overly {
@@ -570,7 +570,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-col:hover i {
-    color: #18d26e;
+    color: tomato;
 }
 
 #about .about-col h2 {
@@ -587,7 +587,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #about .about-col h2 a:hover {
-    color: #18d26e;
+    color: tomato;
 }
 
 #about .about-col p {
@@ -606,12 +606,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #Experiencia h3 {
     color: black;
-    font-size: 28px;
+    font-size: 35px;
     font-weight: 700;
 }
 
 #Experiencia p {
     color: black;
+    font-size: 18px;
 }
 
 #skills {
@@ -671,7 +672,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-    background: #18d26e;
+    background: tomato;
     color: #fff;
 }
 
@@ -726,17 +727,17 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio .portfolio-item figure .link-details i {
     padding-top: 6px;
     font-size: 22px;
-    color: #333;
+    color: rgb(100, 13, 13);
 }
 
 #portfolio .portfolio-item figure .link-preview:hover,
 #portfolio .portfolio-item figure .link-details:hover {
-    background: #18d26e;
+    background: tomato;
 }
 
 #portfolio .portfolio-item figure .link-preview:hover i,
 #portfolio .portfolio-item figure .link-details:hover i {
-    color: #fff;
+    color: rgb(240, 160, 160);
 }
 
 #portfolio .portfolio-item figure .link-preview {
@@ -780,7 +781,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #portfolio .portfolio-item .portfolio-info h4 a:hover {
-    color: #18d26e;
+    color: tomato;
 }
 
 #portfolio .portfolio-item .portfolio-info p {
@@ -871,7 +872,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .social a:hover {
-    color: #18d26e;
+    color: tomato;
 }
 
 #team .member .social i {
@@ -892,7 +893,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-size: 48px;
     display: inline-block;
     margin-bottom: 10px;
-    color: #18d26e;
+    color: tomato;
 }
 
 #contact .contact-info address,
@@ -914,7 +915,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a:hover {
-    color: #18d26e;
+    color: tomato;
 }
 
 #contact .contact-address,
@@ -924,7 +925,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-    color: #18d26e;
+    color: tomato;
     border: 1px solid #18d26e;
     display: none;
     text-align: center;
@@ -966,7 +967,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-    background: #18d26e;
+    background: tomato;
     border: 0;
     padding: 10px 30px;
     color: #fff;
@@ -986,7 +987,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top {
-    background: #111;
+    background: rgb(24, 19, 18);
     padding: 60px 0 30px 0;
 }
 
@@ -1002,7 +1003,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-family: "Montserrat", sans-serif;
     font-weight: 700;
     letter-spacing: 3px;
-    border-left: 4px solid #18d26e;
+    border-left: 4px solid tomato;
 }
 
 #footer .footer-top .footer-info p {
@@ -1017,7 +1018,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-size: 18px;
     display: inline-block;
     background: #333;
-    color: #eee;
+    color: tomato;
     line-height: 1;
     padding: 8px 0;
     margin-right: 4px;
@@ -1057,7 +1058,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top h4::after {
-    background: #18d26e;
+    background: tomato;
     width: 60px;
 }
 
@@ -1090,40 +1091,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-    color: #18d26e;
-}
-
-#footer .footer-top .footer-contact {
-    margin-bottom: 30px;
-}
-
-#footer .footer-top .footer-contact p {
-    line-height: 26px;
-}
-
-#footer .footer-top .footer-newsletter {
-    margin-bottom: 30px;
-}
-
-#footer .footer-top .footer-newsletter input[type="email"] {
-    border: 0;
-    padding: 6px 8px;
-    width: 65%;
-}
-
-#footer .footer-top .footer-newsletter input[type="submit"] {
-    background: #0557ee;
-    border: 0;
-    width: 35%;
-    padding: 6px 0;
-    text-align: center;
-    color: #fff;
-    transition: 0.3s;
-    cursor: pointer;
-}
-
-#footer .footer-top .footer-newsletter input[type="submit"]:hover {
-    background: #360de9;
+    color: tomato;
 }
 
 #footer .copyright {
